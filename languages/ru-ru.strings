@@ -1,0 +1,52 @@
+"encoding" = "Windows-1251";
+"author" = "Vladimir Barinov (veselcraft), Dmitry Tretyakov (Tinelix)";
+
+"frogfind_description" = "Поисковая система для винтажных компьютеров";
+"leap_to" = "Запрос";
+"ribbbit_button" = "Найти!";
+"footer_author" = "Сайт создан YouTube-каналом Action Retro";
+"footer_about" = "Зачем нужна эта штука?";
+"footer_powered" = "Работает с помощью SearXNG";
+
+"search_results" = "Результаты поиска для запроса";
+
+
+%{ About %}
+"about_what_is_t" = "Что из себя представляет FrogFind?";
+"about_faq_short_description" = "Краткий список ЧаВо, касательно необычной поисковой системы";
+"about_who_made_q" = "Кто создавал FrogFind?";
+"about_who_made_a" = "Я Син, автор канала <a href=\"https://youtube.com/ActionRetro\">Action Retro</a> на YouTube. Я много работаю с Маками 80-х и 90-х годов (и другими винтажными компьютерами) и мне очень нравится пытаться сделать так, чтобы они выходили в онлайн. Между прочим, современный Интернет не щадит старые ЭВМ, которые обычно не могут справляться со сложным JavaScript, CSS и шифрованием в современных сайтах. Они могут спокойно просматривать простые веб-сайты, поэтому я решил выяснить, какую часть Интернета я бы мог превратить в простые веб-сайты, чтобы старые машины снова смогли воспользоваться современным Интернетом!";
+"about_how_does_q" = "Как работает FrogFind?";
+"about_how_does_a" = "Функциональность поисковой системы FrogFind в основном является самодельной обёрткой над поисковиком DuckDuckGo, превращая результаты поиска в самые простые HTML-страницы, которые старые браузеры могут прочитать. При открытии страниц из результатов поиска, они обрабатываются <a href=\"https://github.com/fivefilters/readability.php\" target=\"_blank\">портированной версией Mozilla Readability на PHP</a>, которая в свою очередь основывается на режиме чтения Firefox, затем я ещё больше упрощаю результаты, сводя их к максимально простому HTML.";
+"about_what_machines_do_you_test_q" = "На каких машинах вы тестировали FrogFind?";
+"about_what_machines_do_you_test_a" = "Я разработал FrogFind с учётом на классические Маки, так как я тестировал на своём SE/30, чтобы убедиться, что он выглядит хорошо в 1-битном цвете с разрешением 512x384. Большая часть моего тестирования проходила на Netscape 1.1N и 2.0.2, а также на некоторых версиях iCab для Mac 68k. FrogFind должен также хорошо работать в любых текстовых браузерах!";
+"about_how_can_i_get_in_touch_q" = "Как я могу к вам постучаться?";
+"about_how_can_i_get_in_touch_a" = "Пишите мне на почту! <a href=\"mailto:actionretro@pm.me\">actionretro@pm.me</a> (письмо должно быть написано на английском языке)";
+"about_what_is_frogfindplus_t" = "Что из себя представляет FrogFindPlus?";
+"about_frogfindplus_whats_difference_q" = "Чем отличается FrogFindPlus от обычной FrogFind?";
+"about_frogfindplus_whats_difference_a" = "FrogFindPlus - прямое ответление (форк) оригинального FrogFind. Он отличается поддержкой локализации (за это спасибо <a href=\"http://veselcraft.ru\">Веселкрафту</a>). Скоро может быть добавлена базовая поддержка CSS и некоторых улучшений.";
+"about_frogfindplus_who_translated_q" = "Кто перевёл FrogFind на другие языки, включая русский?";
+"about_frogfindplus_who_translated_a" = "FrogFind частично был переведен Владимиром Бариновым (известен под псевдонимом <a href=\"http://veselcraft.ru\">Veselcraft</a>). Впоследствии, перевод был мной (точнее <a href=\"http://tinelix.ru\">автором форка</a>) улучшен.";
+"about_frogfindplus_does_have_source_q" = "У FrogFindPlus есть исходный код?";
+"about_frogfindplus_does_have_source_a" = "Да, как и <a href=\"https://github.com/ActionRetro/FrogFind\">FrogFind</a>, у нашего форка есть исходный код на GitHub - <a href=\"https://github.com/tinelix/FrogFindPlus\">github.com/tinelix/FrogFindPlus</a>. К сожалению, вам придется заходить по ссылке на современных компьютерах, но вы можете воспользоваться локальным прокси-сервером и посмотреть исходный код через Git.";
+
+%{ Read %}
+"back_to_frogfind" = "Вернуться в";
+"browsing_url" = "Адресная строка";
+"go" = "Перейти!";
+
+%{ Errors %}
+
+"error_fail_to_fetch" = "Не удалось выполнить поиск, извините :c";
+"error_not_webpage" = "Это не веб-страница :(";
+"error_article_fail" = "Не получилось показать страницу :(";
+
+
+
+
+
+
+
+
+
+
