@@ -8,8 +8,9 @@ $purifier = new \HTMLPurifier($pconfig);
 
 global $purifier;
 
-// SearXNG instance URL
-define('SEARXNG_URL', 'YOUR_SEARXNG_URL_HERE');
+// SearXNG instance URL - change this to your own SearXNG instance
+define('SEARXNG_URL', 'http://your-searxng-instance/searxng/search');
+
 
 // Locale things
 $locale = new UILocale;
