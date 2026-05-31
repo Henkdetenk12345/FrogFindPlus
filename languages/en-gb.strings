@@ -29,18 +29,19 @@
 "about_frogfindplus_does_have_source_q" = "Does FrogFindPlus have source code?";
 "about_frogfindplus_does_have_source_a" = "Yes, just like <a href=\"https://github.com/ActionRetro/FrogFind\">FrogFind</a>, our fork has source code on GitHub - <a href=\"https://github.com/tinelix/FrogFindPlus\">github.com/tinelix/FrogFindPlus</a>. Unfortunately, you'll have to visit the link on modern computers, but you can use a local proxy server and view the source code via Git.";
 
+"about_what_is_frogfindplusplus_t" = "What is FrogFindPlusPlus?";
+"about_frogfindplusplus_whats_difference_q" = "How is FrogFindPlusPlus different from FrogFindPlus?";
+"about_frogfindplusplus_whats_difference_a" = "FrogFindPlusPlus is a fork of FrogFindPlus (which is itself a fork of the original FrogFind). The main change is that DuckDuckGo has been replaced with a self-hosted SearXNG instance as the search backend, giving more control over search results and privacy. Dutch language support has also been added.";
+"about_frogfindplusplus_does_have_source_q" = "Does FrogFindPlusPlus have source code?";
+"about_frogfindplusplus_does_have_source_a" = "Yes! Available on GitHub: <a href=\"https://github.com/Henkdetenk12345/FrogFindPlusPlus\">github.com/Henkdetenk12345/FrogFindPlusPlus</a>.";
+
 %{ Read %}
 "back_to_frogfind" = "Back to";
 "browsing_url" = "Browsing URL";
 "go" = "Go!";
 
 %{ Errors %}
-
 "error_fail_to_fetch" = "Failed to get results, sorry :(";
-
 "error_not_webpage" = "That's not a web page :(";
-
-
-
-
-
+"error_no_results" = "No results found :(";
+"error_article_fail" = "Failed to fetch article :(";
