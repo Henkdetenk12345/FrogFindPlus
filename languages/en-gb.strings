@@ -20,7 +20,7 @@
 "about_what_machines_do_you_test_q" = "What machines do you test FrogFind on?";
 "about_what_machines_do_you_test_a" = "I designed FrogFind with classic Macs in mind, so I've been testing on my SE/30 to make sure it looks good in 1 bit color with a 512x384 resolution. Most of my testing has been on Netscape 1.1N and 2.0.2, as well as a few 68k Mac versions of iCab. FrogFind should also work great on any text-based web browser!";
 "about_how_can_i_get_in_touch_q" = "How can I get in touch with you?";
-"about_how_can_i_get_in_touch_a" = "Send me an email! <a href=\"mailto:actionretro@pm.me\">actionretro@pm.me";
+"about_how_can_i_get_in_touch_a" = "Send me an email! <a href=\"mailto:actionretro@pm.me\">actionretro@pm.me</a>";
 "about_what_is_frogfindplus_t" = "What is FrogFindPlus?";
 "about_frogfindplus_whats_difference_q" = "How is FrogFindPlus different from original FrogFind?";
 "about_frogfindplus_whats_difference_a" = "FrogFindPlus - a direct fork of the original FrogFind. It features localization support (thanks to <a href=\"http://veselcraft.ru\">Veselcraft</a> for that). Basic CSS support and some improvements may be added soon.";
